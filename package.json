@@ -1,0 +1,28 @@
+{
+  "name": "grocery-gaming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ralphs-scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binkybarnes/grocery-gaming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/binkybarnes/grocery-gaming/issues"
+  },
+  "homepage": "https://github.com/binkybarnes/grocery-gaming#readme",
+  "devDependencies": {
+    "playwright": "^1.58.1"
+  },
+  "dependencies": {
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
